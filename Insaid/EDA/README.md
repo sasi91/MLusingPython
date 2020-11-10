@@ -1,6 +1,6 @@
+
 <html>
-<Head><center> <b>EDA on Breast Cancer Survival</b></center> 
-</Head>
+<Head><h1 style="text-align:center;">EDA on Breast Cancer Survival</h1> </Head>
 <body>
 <div class ="main" >
 
@@ -43,6 +43,9 @@ The dataset contains cases from a study that was conducted between 1958 and 1970
 </ol>
 <h4> Supported Files </h4>
 Refer these below files for  more information
+
+1. [Project Notebook](https://github.com/sasi91/MLusingPython/blob/main/Insaid/EDA/EDABreastCancer_Notebook.ipynb)
+2. [PPT](https://github.com/sasi91/MLusingPython/blob/main/Insaid/EDA/EDABreastCancer_PPT.pptx)
 
 </div>
 
